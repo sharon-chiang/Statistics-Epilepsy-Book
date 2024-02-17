@@ -9,14 +9,4 @@ THis repository holds the R and Jupyter notebook source code for _Statistical Me
    ```
 2. Change the file you wish and commit it to the repository.
 
-   ```
-   git commit -m 'Add Message Here'
-   ```
-4. Push your change back to the repository (ideally via a pull request).
-
-   ```
-   git push
-   ```
-
-## To download a chapter's code:
-1. Navigate to the chapter and download the code for the chapter. 
+3. Push your change back to the repository (ideally via a pull request).
