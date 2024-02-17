@@ -1,4 +1,4 @@
-# Statistics-Epilepsy-Book
+# Statistical Methods in Epileps
 THis repository holds the R and Jupyter notebook source code for _Statistical Methods in Epilepsy_.
 
 ## To make a change to the code:
