@@ -11,7 +11,7 @@ THis repository holds the R and Jupyter notebook source code for _Statistical Me
 
 3. Push your change back to the repository (ideally via a pull request).
 
-## Table of contents:
+## Chapter contents:
 1. Coding Basics: 
 Emilian R. Vankov, Rob M. Sylvester and Christfried H. Focke
 
