@@ -5,7 +5,7 @@ THis repository holds the R and Jupyter notebook source code for _Statistical Me
 1. Get your copy of this repository:
 
    ```
-   git clone https://github.com/data-8/textbook](https://github.com/sharon-chiang/Statistics-Epilepsy-Book.git
+   git clone https://github.com/sharon-chiang/Statistics-Epilepsy-Book.git
    ```
 2. Change the file you wish and commit it to the repository.
 
