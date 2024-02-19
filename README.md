@@ -1,5 +1,5 @@
 # Statistical Methods in Epilepsy
-Editors: Sharon Chiang, Vikram R. Rao, and Marina Vannucci
+Editors: [Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang), [Vikram R. Rao](https://profiles.ucsf.edu/vikram.rao), and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
 ![image](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/assets/90107659/b2364679-3153-4f03-a861-b768f5ea984b)
 
