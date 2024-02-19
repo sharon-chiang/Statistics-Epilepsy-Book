@@ -23,49 +23,49 @@ This repository holds the R and Jupyter notebook source code for individual book
 
 ## Table of Contents with Supporting Material:
 1. Coding Basics: 
-Emilian R. Vankov, Rob M. Sylvester and Christfried H. Focke
+Emilian R. Vankov, [Rob M. Sylvester](https://github.com/robmsylvester) and [Christfried H. Focke](https://github.com/chris-boson)
 
 2. Preprocessing Electrophysiological Data: EEG, iEEG and MEG Data: 
-Kristin K. Sellers, Joline M. Fan, Leighton B.N. Hinkley and Heidi E. Kirsch
+[Kristin K. Sellers](https://profiles.ucsf.edu/kristin.sellers), [Joline M. Fan](https://profiles.ucsf.edu/joline.fan), [Leighton B.N. Hinkley](https://profiles.ucsf.edu/leighton.hinkley) and [Heidi E. Kirsch](https://profiles.ucsf.edu/heidi.kirsch)
 
 3. Acquisition and Preprocessing of Neuroimaging MRI Data: 
 Hsiang J. Yeh
 
 4. Hypothesis Testing and Correction for Multiple Testing:
-Doug Speed
+[Doug Speed](https://dougspeed.com/)
 
 5.  Introduction to Linear, Generalized Linear and Mixed-Effects Models:
-Omar Vazquez, Xiangmin Xu and [Zhaoxia Yu](https://github.com/yu-zhaoxia?tab=repositories)
+Omar Vazquez, [Xiangmin Xu](https://cnlm.uci.edu/xu/) and [Zhaoxia Yu](https://github.com/yu-zhaoxia?tab=repositories)
 
 6. Survival Analysis:
-Fei Jiang and Elan Guterman
+[Fei Jiang](https://profiles.ucsf.edu/fei.jiang) and [Elan Guterman](https://profiles.ucsf.edu/elan.guterman)
 
 7. Graph and Network Control Theoretic Frameworks:
-Ankit N. Khambhati and Sharon Chiang
+[Ankit N. Khambhati](https://profiles.ucsf.edu/ankit.khambhati) and [Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang)
 
 8. Time-Series Analysis:
-Sharon Chiang, John Zito, Vikram R. Rao, and Marina Vannucci
+[Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang), John Zito, [Vikram R. Rao](https://profiles.ucsf.edu/vikram.rao), and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
 9. Spectral Analysis of Electrophysiological Data:
-Hernando Ombao and Marco Antonio Pinto-Orellana
+[Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao) and Marco Antonio Pinto-Orellana
 
 10. Spatial Modeling of Imaging and Electrophysiological Data:
-Rongke Lyu, Michele Guindani and Marina Vannucci
+Rongke Lyu, [Michele Guindani](https://www.faculty.uci.edu/profile/?facultyId=6486) and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
 11. Unsupervised Learning:
-Giuseppe Vinci
+[Giuseppe Vinci](https://acms.nd.edu/people/giuseppe-vinci/)
 
 12. Supervised Learning:
-Emilian R. Vankov and Kais Gadhoumi
+Emilian R. Vankov and [Kais Gadhoumi](https://nursing.duke.edu/directories/kais.gadhoumi)
 
 13. Natural Language Processing:
-Christfried H. Focke and Rob M. Sylvester
+[Christfried H. Focke](https://github.com/chris-boson) and Rob M. Sylvester
 
 14. Prospective Observational Study Design and Analysis:
-Carrie Brown, Kimford J. Meador, Page Pennell, and Abigail G. Matthews
+Carrie Brown, [Kimford J. Meador](https://profiles.stanford.edu/kimford-meador), [Page Pennell](https://www.neurology.pitt.edu/people/page-b-pennell), and Abigail G. Matthews
 
 15. Pharmacokinetic and Pharmacodynamic Modeling:
-Ashwin Karanam, Yuhan Long and Angela Birnbaum
+Ashwin Karanam, Yuhan Long and [Angela Birnbaum](https://www.pharmacy.umn.edu/our-faculty-staff/our-faculty/angela-birnbaum)
 
 16. Randomized Clinical Trial Analysis:
-Joseph E. Sullivan and Michael Lock
+[Joseph E. Sullivan](https://profiles.ucsf.edu/joseph.sullivan) and Michael Lock
