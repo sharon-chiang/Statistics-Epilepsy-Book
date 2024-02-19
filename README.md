@@ -3,9 +3,9 @@ Editors: Sharon Chiang, Vikram R. Rao, and Marina Vannucci
 
 ![image](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/assets/90107659/b2364679-3153-4f03-a861-b768f5ea984b)
 
-This repository holds the R and Jupyter notebook source code for _Statistical Methods in Epilepsy_.
+_Statistical Methods in Epilepsy_ is an introductory textbook for statistics published by Chapman & Hall in 2024. It covers foundational skills in programming and statistics with a focus on example applications from epilepsy research.
 
-The book is available from Amazon here: https://a.co/d/eDfuxuO
+This repository holds the R and Jupyter notebook source code for individual book chapters. 
 
 ## To propose changes to the code for any chapter:
 1. Get your copy of this repository:
