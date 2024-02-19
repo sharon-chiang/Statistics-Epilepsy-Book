@@ -1,4 +1,4 @@
-# Statistical Methods in Epilepsy
+# Statistical Methods in Epilepsy, 1st Edition
 Editors: [Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang), [Vikram R. Rao](https://profiles.ucsf.edu/vikram.rao), and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
 <img src="https://github.com/sharon-chiang/Statistics-Epilepsy-Book/assets/90107659/b2364679-3153-4f03-a861-b768f5ea984b" height="300">
@@ -6,6 +6,10 @@ Editors: [Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang), [Vikram R. Ra
 _Statistical Methods in Epilepsy_ is an introductory textbook for statistics published by Chapman & Hall in 2024. It covers foundational skills in programming and statistics with a focus on example applications from epilepsy research.
 
 This repository holds the R and Jupyter notebook source code for individual book chapters. 
+
+[Buy it on Amazon](https://www.amazon.com/dp/1032184353?ref_=cm_sw_r_cp_ud_dp_39H8GH80QGCHFNH334G7)
+
+**We encourage readers to send us comments or typos they detect in any of the chapters. Contact: Sharon.Chiang@ucsf.edu**
 
 ## To propose changes to the code for any chapter:
 1. Get your copy of this repository:
@@ -17,7 +21,7 @@ This repository holds the R and Jupyter notebook source code for individual book
 
 3. Push your change back to the repository via a pull request.
 
-## Chapter contents:
+## Table of Contents with Supporting Material:
 1. Coding Basics: 
 Emilian R. Vankov, Rob M. Sylvester and Christfried H. Focke
 
@@ -31,7 +35,7 @@ Hsiang J. Yeh
 Doug Speed
 
 5.  Introduction to Linear, Generalized Linear and Mixed-Effects Models:
-Omar Vazquez, Xiangmin Xu and Zhaoxia Yu
+Omar Vazquez, Xiangmin Xu and [Zhaoxia Yu](https://github.com/yu-zhaoxia?tab=repositories)
 
 6. Survival Analysis:
 Fei Jiang and Elan Guterman
