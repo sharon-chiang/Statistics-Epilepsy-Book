@@ -9,7 +9,7 @@ This repository holds the R and Jupyter notebook source code for individual book
 
 [Buy it on Amazon](https://www.amazon.com/dp/1032184353?ref_=cm_sw_r_cp_ud_dp_39H8GH80QGCHFNH334G7)
 
-**We encourage readers to send us comments or typos they detect in any of the chaptersu**
+**We encourage readers to send us comments or typos they detect in any of the chapters.**
 
 ## To propose changes to the code for any chapter:
 1. Get your copy of this repository:
