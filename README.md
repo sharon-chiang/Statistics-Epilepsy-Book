@@ -59,7 +59,7 @@ Chapter 12. [Supervised Learning](https://github.com/sharon-chiang/Statistics-Ep
 Emilian R. Vankov and [Kais Gadhoumi](https://nursing.duke.edu/directories/kais.gadhoumi)
 
 Chapter 13. [Natural Language Processing](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2013)  
-[Christfried H. Focke](https://github.com/chris-boson) and Rob M. Sylvester
+[Christfried H. Focke](https://github.com/chris-boson) and [Rob M. Sylvester](https://github.com/robmsylvester)
 
 Chapter 14. [Prospective Observational Study Design and Analysis](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2014)  
 Carrie Brown, [Kimford J. Meador](https://profiles.stanford.edu/kimford-meador), [Page Pennell](https://www.neurology.pitt.edu/people/page-b-pennell), and Abigail G. Matthews
