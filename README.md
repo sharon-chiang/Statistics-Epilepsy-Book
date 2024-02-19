@@ -22,7 +22,7 @@ This repository holds the R and Jupyter notebook source code for individual book
 3. Push your change back to the repository via a pull request.
 
 ## Table of Contents with Supporting Material:
-1. Coding Basics: 
+Chapter 1. [Coding Basics](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2001): 
 Emilian R. Vankov, [Rob M. Sylvester](https://github.com/robmsylvester) and [Christfried H. Focke](https://github.com/chris-boson)
 
 2. Preprocessing Electrophysiological Data: EEG, iEEG and MEG Data: 
