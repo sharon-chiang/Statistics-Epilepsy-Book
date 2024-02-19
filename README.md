@@ -1,7 +1,7 @@
 # Statistical Methods in Epilepsy
 Editors: [Sharon Chiang](https://profiles.ucsf.edu/sharon.chiang), [Vikram R. Rao](https://profiles.ucsf.edu/vikram.rao), and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
-![image](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/assets/90107659/b2364679-3153-4f03-a861-b768f5ea984b)
+<img src="https://github.com/sharon-chiang/Statistics-Epilepsy-Book/assets/90107659/b2364679-3153-4f03-a861-b768f5ea984b" height="300">
 
 _Statistical Methods in Epilepsy_ is an introductory textbook for statistics published by Chapman & Hall in 2024. It covers foundational skills in programming and statistics with a focus on example applications from epilepsy research.
 
