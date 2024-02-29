@@ -1,0 +1,7 @@
+numpy==1.22.4
+scipy==1.8.1
+h5py==3.7.0
+matplotlib==3.5.2
+seaborn==0.11.2
+pandas==1.4.2
+modularity @ git+https://github.com/akhambhati/modularity.git@0.1.2.post6
