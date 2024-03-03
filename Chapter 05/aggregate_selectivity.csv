@@ -1,0 +1,84 @@
+session_id,subject_id,age,sex,session_location,session_date,image_categs,n_neurons,prop_selective_visual,n_selective_visual
+CS24_59,P24CS,57,F,Cedars-Sinai Medical Center,2012-09-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",21,0.2857142857142857,6
+CS24_60,P24CS,57,F,Cedars-Sinai Medical Center,2012-09-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",22,0.2727272727272727,6
+CS25_61,P25CS,36,F,Cedars-Sinai Medical Center,2012-09-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",8,0,0
+CS25_63,P25CS,36,F,Cedars-Sinai Medical Center,2012-09-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",14,0,0
+CS26_64,P26CS,56,F,Cedars-Sinai Medical Center,2012-12-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",33,0.18181818181818182,6
+CS26_66,P26CS,56,F,Cedars-Sinai Medical Center,2012-12-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",11,0.2727272727272727,3
+CS27_67,P27CS,44,M,Cedars-Sinai Medical Center,2013-01-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",15,0.2,3
+CS29_69,P29CS,19,M,Cedars-Sinai Medical Center,2013-10-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",64,0.15625,10
+CS29_70,P29CS,19,M,Cedars-Sinai Medical Center,2013-10-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",33,0.30303030303030304,10
+CS31_73,P31CS,32,M,Cedars-Sinai Medical Center,2014-02-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",4,0.25,1
+CS32_74,P32CS,19,M,Cedars-Sinai Medical Center,2014-02-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",35,0.34285714285714286,12
+CS33_76,P33CS,44,F,Cedars-Sinai Medical Center,2014-03-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",53,0.22641509433962265,12
+CS33_77,P33CS,44,F,Cedars-Sinai Medical Center,2014-03-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",30,0.36666666666666664,11
+CS33_78,P33CS,44,F,Cedars-Sinai Medical Center,2014-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",13,0.3076923076923077,4
+CS34_85,P34CS,70,M,Cedars-Sinai Medical Center,2014-12-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",6,0.16666666666666666,1
+CS37_96,P37CS,33,F,Cedars-Sinai Medical Center,2015-03-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",13,0.38461538461538464,5
+CS38_102,P38CS,63,F,Cedars-Sinai Medical Center,2015-07-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",44,0.2727272727272727,12
+CS39_100,P39CS,26,M,Cedars-Sinai Medical Center,2015-08-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",42,0.38095238095238093,16
+CS39_93,P39CS,26,M,Cedars-Sinai Medical Center,2015-08-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",35,0.2571428571428571,9
+CS40_101,P40CS,25,M,Cedars-Sinai Medical Center,2016-01-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",14,0.07142857142857142,1
+CS42_111,P42CS,25,F,Cedars-Sinai Medical Center,2016-08-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",14,0.21428571428571427,3
+CS42_112,P42CS,25,F,Cedars-Sinai Medical Center,2016-08-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",12,0.25,3
+CS43_113,P43CS,42,F,Cedars-Sinai Medical Center,2016-11-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",21,0.09523809523809523,2
+CS44_114,P44CS,53,F,Cedars-Sinai Medical Center,2016-09-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",15,0.2,3
+CS47_115,P47CS,32,M,Cedars-Sinai Medical Center,2017-02-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",35,0.2857142857142857,10
+CS48_116,P48CS,32,F,Cedars-Sinai Medical Center,2017-03-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",36,0.2222222222222222,8
+CS49_117,P49CS,24,F,Cedars-Sinai Medical Center,2017-05-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",11,0.5454545454545454,6
+CS49_118,P49CS,24,F,Cedars-Sinai Medical Center,2017-05-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",13,0.07692307692307693,1
+CS51_119,P51CS,17,M,Cedars-Sinai Medical Center,2017-07-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",16,0.25,4
+CS51_120,P51CS,17,M,Cedars-Sinai Medical Center,2017-07-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",15,0.4,6
+CS53_122,P53CS,60,M,Cedars-Sinai Medical Center,2017-11-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",27,0.2222222222222222,6
+CS54_124,P54CS,59,F,Cedars-Sinai Medical Center,2018-01-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",43,0.09302325581395349,4
+CS54_125,P54CS,59,F,Cedars-Sinai Medical Center,2018-01-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",46,0.1956521739130435,9
+CS54_126,P54CS,59,F,Cedars-Sinai Medical Center,2018-01-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",34,0.08823529411764706,3
+CS55_127,P55CS,43,F,Cedars-Sinai Medical Center,2018-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",8,0.125,1
+CS56_128,P56CS,48,M,Cedars-Sinai Medical Center,2018-04-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",7,0,0
+CS57_130,P57CS,46,M,Cedars-Sinai Medical Center,2018-06-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",16,0.625,10
+CS57_131,P57CS,46,M,Cedars-Sinai Medical Center,2018-06-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",11,0.09090909090909091,1
+CS58_132,P58CS,32,F,Cedars-Sinai Medical Center,2018-07-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",8,0.875,7
+CS58_133,P58CS,32,F,Cedars-Sinai Medical Center,2018-07-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",2,1,2
+CS60_134,P60CS,67,M,Cedars-Sinai Medical Center,2018-10-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",14,0.07142857142857142,1
+CS61_135,P61CS,52,F,Cedars-Sinai Medical Center,2019-02-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",13,0.15384615384615385,2
+CS62_136,P62CS,25,F,Cedars-Sinai Medical Center,2019-04-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",13,0.07692307692307693,1
+H09_5,P9HMH,55,M,Hunigton Memorial Hospital,2006-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",24,0.08333333333333333,2
+H09_6,P9HMH,55,M,Hunigton Memorial Hospital,2006-03-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",19,0.3684210526315789,7
+H10_7,P10HMH,37,M,Hunigton Memorial Hospital,2006-09-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",38,0.23684210526315788,9
+H11_9,P11HMH,16,M,Hunigton Memorial Hospital,2006-11-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",25,0.12,3
+H14_17,P14HMH,31,M,Hunigton Memorial Hospital,2007-06-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",23,0.13043478260869565,3
+H14_18,P14HMH,31,M,Hunigton Memorial Hospital,2007-06-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",33,0.2727272727272727,9
+H15_20,P15HMH,45,M,Hunigton Memorial Hospital,2007-09-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",20,0.1,2
+H15_21,P15HMH,45,M,Hunigton Memorial Hospital,2007-09-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",14,0.14285714285714285,2
+H16_23,P16HMH,34,F,Hunigton Memorial Hospital,2007-10-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",18,0.2777777777777778,5
+H16_24,P16HMH,34,F,Hunigton Memorial Hospital,2007-10-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",21,0.42857142857142855,9
+H17_32,P17HMH,19,M,Hunigton Memorial Hospital,2008-05-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",43,0.3023255813953488,13
+H18_26,P18HMH,40,M,Hunigton Memorial Hospital,2008-06-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",33,0.09090909090909091,3
+H19_27,P19HMH,34,M,Hunigton Memorial Hospital,2008-06-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",16,0.0625,1
+H19_28,P19HMH,34,M,Hunigton Memorial Hospital,2008-06-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",15,0.2,3
+H21_38,P21HMH,20,M,Hunigton Memorial Hospital,2009-01-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",20,0.25,5
+H21_39,P21HMH,20,M,Hunigton Memorial Hospital,2009-01-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",18,0.1111111111111111,2
+H21_41,P21HMH,20,M,Hunigton Memorial Hospital,2009-01-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",15,0.2,3
+H23_43,P23HMH,40,M,Hunigton Memorial Hospital,2009-02-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",23,0.2608695652173913,6
+H23_44,P23HMH,40,M,Hunigton Memorial Hospital,2009-02-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",23,0.08695652173913043,2
+H23_47,P23HMH,40,M,Hunigton Memorial Hospital,2009-02-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",17,0.17647058823529413,3
+H27_58,P27HMH,40,M,Hunigton Memorial Hospital,2010-02-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",49,0.24489795918367346,12
+H28_48,P28HMH,22,M,Hunigton Memorial Hospital,2010-03-13T08:00:00Z,"Animals, Cars, Food, People, Spatial",45,0.37777777777777777,17
+H29_49,P29HMH,17,F,Hunigton Memorial Hospital,2010-12-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",27,0.25925925925925924,7
+H31_50,P31HMH,30,M,Hunigton Memorial Hospital,2011-04-01T08:00:00Z,"Animal, Fruit, Kids, Military, Space",14,0.14285714285714285,2
+H33_52,P33HMH,30,M,Hunigton Memorial Hospital,2011-07-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",18,0.3888888888888889,7
+H42_54,P42HMH,29,M,Hunigton Memorial Hospital,2013-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",32,0.28125,9
+H42_55,P42HMH,29,M,Hunigton Memorial Hospital,2013-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",32,0.28125,9
+H43_56,P43HMH,27,F,Hunigton Memorial Hospital,2013-04-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",15,0.13333333333333333,2
+H44_68,P44HMH,57,F,Hunington Memorial Hospital,2000-01-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",19,0.15789473684210525,3
+H47_92,P47HMH,20,M,Hunington Memorial Hospital,2014-06-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",7,0.2857142857142857,2
+H47_97,P47HMH,20,M,Hunington Memorial Hospital,2014-06-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",10,0,0
+H48_99,P48HMH,32,F,Hunington Memorial Hospital,2014-12-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",30,0.1,3
+H51_104,P51HMH,24,M,Hunington Memorial Hospital,2016-02-01T08:00:00Z,"Animals, Cars, Food, People, Spatial",42,0.23809523809523808,10
+H51_105,P51HMH,24,M,Hunington Memorial Hospital,2016-02-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",43,0.13953488372093023,6
+T100_2008,TWH100,19,F,Toronto Western Hospital,2018-10-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",1,0,0
+T101_2011,TWH101,25,F,Toronto Western Hospital,2018-10-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",8,0.625,5
+T103_2009,TWH103,49,M,Toronto Western Hospital,2018-11-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",3,1,3
+T107_2007,TWH107,64,F,Toronto Western Hospital,2018-12-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",3,0.3333333333333333,1
+T89_2004,TWH089,45,F,Toronto Western Hospital,2018-03-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",31,0.16129032258064516,5
+T98_2005,TWH098,46,F,Toronto Western Hospital,2018-09-01T08:00:00Z,"Houses, Landscapes, Mobility, Phones, Small animal",13,0.38461538461538464,5
