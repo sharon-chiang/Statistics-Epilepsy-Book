@@ -31,7 +31,7 @@ Chapter 2. [Preprocessing Electrophysiological Data: EEG, iEEG and MEG Data](htt
 Chapter 3. [Acquisition and Preprocessing of Neuroimaging MRI Data](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2003)  
 Hsiang J. Yeh
 
-Chapter 4. [Hypothesis Testing and Correction for Multiple Testing](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2004)  
+Chapter 4. Hypothesis Testing and Correction for Multiple Testing  
 [Doug Speed](https://dougspeed.com/)
 
 Chapter 5. [Introduction to Linear, Generalized Linear and Mixed-Effects Models](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2005)  
@@ -49,7 +49,7 @@ Chapter 8. [Time-Series Analysis](https://github.com/sharon-chiang/Statistics-Ep
 Chapter 9. [Spectral Analysis of Electrophysiological Data](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2009)  
 [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao) and Marco Antonio Pinto-Orellana
 
-Chapter 10. [Spatial Modeling of Imaging and Electrophysiological Data](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2010)  
+Chapter 10. Spatial Modeling of Imaging and Electrophysiological Data  
 Rongke Lyu, [Michele Guindani](https://www.faculty.uci.edu/profile/?facultyId=6486) and [Marina Vannucci](https://profiles.rice.edu/faculty/marina-vannucci)
 
 Chapter 11. [Unsupervised Learning](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2011)  
@@ -61,11 +61,11 @@ Emilian R. Vankov and [Kais Gadhoumi](https://nursing.duke.edu/directories/kais.
 Chapter 13. [Natural Language Processing](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2013)  
 [Christfried H. Focke](https://github.com/chris-boson) and [Rob M. Sylvester](https://github.com/robmsylvester)
 
-Chapter 14. [Prospective Observational Study Design and Analysis](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2014)  
+Chapter 14. Prospective Observational Study Design and Analysis  
 Carrie Brown, [Kimford J. Meador](https://profiles.stanford.edu/kimford-meador), [Page Pennell](https://www.neurology.pitt.edu/people/page-b-pennell), and Abigail G. Matthews
 
 Chapter 15. [Pharmacokinetic and Pharmacodynamic Modeling](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2015)  
 Ashwin Karanam, Yuhan Long and [Angela Birnbaum](https://www.pharmacy.umn.edu/our-faculty-staff/our-faculty/angela-birnbaum)
 
-Chapter 16. [Randomized Clinical Trial Analysis](https://github.com/sharon-chiang/Statistics-Epilepsy-Book/tree/main/Chapter%2016)  
+Chapter 16. Randomized Clinical Trial Analysis  
 [Joseph E. Sullivan](https://profiles.ucsf.edu/joseph.sullivan) and Michael Lock
