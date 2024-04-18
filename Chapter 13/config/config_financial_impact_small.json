@@ -1,0 +1,102 @@
+{
+    "experiment": {
+        "project_name": "financial_impact",
+        "description": "Example on Multilabel Classification using Epilepsy General Dataset",
+        "dataset": "financial_impact",
+        "version": 0,
+        "data_module": "financial_impact",
+        "model": "multilabel_transformer_classifier",
+        "restore_from_checkpoint": false
+    },
+    "metrics": {
+        "multilabel": true,
+        "tracked_metrics": [
+            {
+                "name": "accuracy",
+                "average": "weighted"
+            },
+            {
+                "name": "auroc",
+                "average": "macro"
+            },
+            {
+                "name": "f1",
+                "average": "weighted"
+            },
+            {
+                "name": "precision",
+                "average": "weighted"
+            },
+            {
+                "name": "recall",
+                "average": "weighted"
+            }
+        ]
+    },
+    "hparams": {
+        "label": [
+            "Not eligible",
+            "Last resort",
+            "Considering it",
+            "Was Unsuccessful",
+            "Was partially successful",
+            "Was successful",
+            "Side effects",
+            "Risk",
+            "Unknown outcome"
+        ],
+        "text": "Text",
+        "encoder_model": "google/bert_uncased_L-2_H-128_A-2",
+        "positive_resample_rate": {
+            "Not eligible": 2,
+            "Last resort": 6,
+            "Considering it": 5,
+            "Was Unsuccessful": 5,
+            "Was partially successful": 5,
+            "Was successful": 5,
+            "Side effects": 5,
+            "Risk": 2,
+            "Unknown outcome": 6
+        },
+        "disable_weight_scale": false,
+        "nr_frozen_epochs": 1,
+        "loader_workers": 8,
+        "context_labels": "remove",
+        "batch_size": 8,
+        "save_epoch_count": 4,
+        "max_epochs": 2,
+        "num_epochs_decay": 100,
+        "accumulate_grad_batches": 1,
+        "gradient_clip_val": 1,
+        "dropout_p": 0.5,
+        "early_stop_enabled": false,
+        "learning_rate": 3e-5,
+        "encoder_learning_rate": 1e-5,
+        "train_ratio": 0.6,
+        "validation_ratio": 0.4,
+        "test_ratio": 0.0,
+        "num_labels": 9,
+        "unknown_index": 0
+    },
+    "validation": {
+        "metric": "val/AUROC",
+        "metric_goal": "max",
+        "check_val_every_n_epoch": 1,
+        "gradient_log_steps": 100,
+        "param_log_steps": null
+    },
+    "sweep": {
+        "name": "sweep_v1",
+        "method": "bayes",
+        "metric": {
+            "name": "val_AUROC",
+            "goal": "maximize"
+        },
+        "parameters": {
+            "learning_rate": {
+                "min": 1e-5,
+                "max": 5e-4
+            }
+        }
+    }
+}

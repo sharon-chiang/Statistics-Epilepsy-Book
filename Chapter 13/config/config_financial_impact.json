@@ -1,0 +1,112 @@
+{
+    "experiment": {
+        "project_name": "financial_impact",
+        "description": "Example on Multilabel Classification using Epilepsy General Dataset",
+        "dataset": "financial_impact",
+        "version": 0,
+        "data_module": "financial_impact",
+        "model": "multilabel_transformer_classifier",
+        "restore_from_checkpoint": false
+    },
+    "metrics": {
+        "multilabel": true,
+        "tracked_metrics": [
+            {
+                "name": "accuracy",
+                "average": "weighted"
+            },
+            {
+                "name": "auroc",
+                "average": "macro"
+            },
+            {
+                "name": "f1",
+                "average": "weighted"
+            },
+            {
+                "name": "precision",
+                "average": "weighted"
+            },
+            {
+                "name": "recall",
+                "average": "weighted"
+            }
+        ]
+    },
+    "hparams": {
+        "label": [
+            "Not eligible",
+            "Last resort",
+            "Would never do it",
+            "Considering it",
+            "Was Unsuccessful",
+            "Was partially successful",
+            "Was successful",
+            "Side effects",
+            "Risk",
+            "Too expensive",
+            "Complications",
+            "Unknown outcome",
+            "Unnecessary",
+            "Cannot find origin"
+        ],
+        "text": "Text",
+        "encoder_model": "roberta-base",
+        "positive_resample_rate": {
+            "Not eligible": 1,
+            "Last resort": 1,
+            "Would never do it": 1,
+            "Considering it": 1,
+            "Was Unsuccessful": 1,
+            "Was partially successful": 1,
+            "Was successful": 1,
+            "Side effects": 1,
+            "Risk": 1,
+            "Too expensive": 1,
+            "Complications": 1,
+            "Unknown outcome": 1,
+            "Unnecessary": 1,
+            "Cannot find origin": 1
+        },
+        "disable_weight_scale": false,
+        "nr_frozen_epochs": 1,
+        "loader_workers": 8,
+        "context_labels": "remove",
+        "batch_size": 2,
+        "save_epoch_count": 4,
+        "max_epochs": 100,
+        "num_epochs_decay": 100,
+        "accumulate_grad_batches": 1,
+        "gradient_clip_val": 1,
+        "dropout_p": 0.3,
+        "early_stop_enabled": false,
+        "learning_rate": 3e-4,
+        "encoder_learning_rate": 1e-5,
+        "train_ratio": 0.6,
+        "validation_ratio": 0.4,
+        "test_ratio": 0.0,
+        "num_labels": 14,
+        "unknown_index": 0
+    },
+    "validation": {
+        "metric": "val/AUROC",
+        "metric_goal": "max",
+        "check_val_every_n_epoch": 5,
+        "gradient_log_steps": 100,
+        "param_log_steps": null
+    },
+    "sweep": {
+        "name": "sweep_v1",
+        "method": "bayes",
+        "metric": {
+            "name": "val_AUROC",
+            "goal": "maximize"
+        },
+        "parameters": {
+            "learning_rate": {
+                "min": 1e-5,
+                "max": 5e-4
+            }
+        }
+    }
+}

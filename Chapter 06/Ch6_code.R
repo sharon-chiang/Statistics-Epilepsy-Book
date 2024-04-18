@@ -5,7 +5,7 @@ library(ggplot2)
 library(survminer)
 
 # Import data example and process a few columns
-Dsurv= read.csv('survivaldata.csv')
+Dsurv= read.csv('Ch6_data.csv')
 
 colnames(Dsurv)[5] = "Diag"
 Dsurv[Dsurv[, 5] == 2, 5] = 1
