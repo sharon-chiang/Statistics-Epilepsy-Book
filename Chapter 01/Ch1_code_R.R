@@ -23,8 +23,8 @@ library(ggplot2)
 
 ### Load in a single file
 
-# Initialize all the required paths
-data_path = "/Ch1_data/"
+# Initialize all the required paths (working directory should be set to Ch1_data)
+data_path = "Ch1_data/"
 single_patient_folder = "Patient_1/"
 filename = "metadata.csv"
 
