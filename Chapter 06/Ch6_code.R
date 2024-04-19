@@ -7,17 +7,26 @@ library(survminer)
 # Import data example and process a few columns
 Dsurv= read.csv('Ch6_data.csv')
 
+## Rename the fifth column of DSurv to "Diag" to be more informative, and recode
+## the variable Diag==2 to Diag==1
 colnames(Dsurv)[5] = "Diag"
 Dsurv[Dsurv[, 5] == 2, 5] = 1
 
+# Change the group indicator. The orginal Group=1 is the reference group. After 
+## the transformation, Group=0 is the reference group.
 Dsurv$Group = 1 - Dsurv$Group
 
 # Get survival times
 getsurvtime = function(x){
     which(x>0)[1]
-    }
-    
+}
+
+## If every entry in column 7 to 16 is zero, the patient's observation time is 
+## censored.
 survtime = apply(Dsurv[, 7:16], 1, getsurvtime)
+
+## The maximal observation time is 12 months. Therefore, anyone who does not 
+## have observed event time will be assigned the maximal observation time. 
 survtime[is.na(survtime)] = 12
 
 # Define censoring variable
